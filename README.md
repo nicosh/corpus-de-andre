@@ -1,2 +1,2 @@
 # corpus-de-andre
-tutti i testi di de andrè
+## tutti i testi delle canzoni di Fabrizio De Andrè
