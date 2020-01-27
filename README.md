@@ -1,7 +1,6 @@
 # corpus-de-andre
 ## tutti i testi delle canzoni di Fabrizio De Andrè
 ### Tutto Fabrizio De Andrè (1966) 
-### Tutto Fabrizio De Andrè (1966) 
 0. La Ballata Dell'amore Cieco 
 1. Amore Che Vieni Amore Che Vai 
 2. La Ballata Dell'eroe 
